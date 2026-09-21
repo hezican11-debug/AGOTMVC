@@ -20,4 +20,4 @@ There are the main environment of this project:
 There are more details of running this project:
 
     - Step 1. Download the databases into the data folder. (We provide the WebKB database for testing our code)
-    - Step 2. run the run.sh script to train and evaluate the model. Or run the command `python train.py --dataset "WebKB" --epochs 100 --iteration 5` in the terminal.
+    - Step 2. Run the command `python run_pipeline.py" in the terminal.
